@@ -113,6 +113,7 @@ server {
         - break - last와 달리 문자열 치환까지만 한다.
         - redirect - 302 코드와 함께 임시 리다이렉트를 한다. ‘http://’, ‘https://’ 로 치환하지 않는 경우 사용한다.
         - permanent - 301 코드와 함께 영구 리다이렉트를 한다.
+    - rewrite 대신 아래 옵션을 사용하면 HSTS(HTTP Strict-Transport-Security) 설정을 하여 클라이언트 측에서 내부 리다이렉트가 되도록 설정할 수도 있다.
 - proxy_pass - Reverse Proxy를 위해 사용한다. 리다이렉트시키는 rewrite나, 정적인 파일과 매핑하는 root와 달리 지정한 URL로 요청을 매핑시킨다. 특정 URL 또는 upstream을 지정하여 사용한다.
     - URL로 요청을 전달할 때 현재 요청의 Host, IP 등을 그대로 전달하려면 아래 옵션을 함께 사용해야 한다. 사용하지 않을 경우 Nginx는 기본적으로 요청의 Host를 해당 시스템의 IP로 변경한다.
     
