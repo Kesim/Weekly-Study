@@ -9,4 +9,7 @@
 
 ### 📚학습 주제
 #### 1회차
-- [JVM의 메모리구조](https://github.com/jeejee1106/free-study/blob/main/study/1%ED%9A%8C%EC%B0%A8_JVM%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0.md)
+- 김민지 : [JVM의 메모리구조](https://github.com/jeejee1106/free-study/blob/main/study/1%ED%9A%8C%EC%B0%A8_JVM%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0.md)
+
+#### 2회차
+- 김민지 : [Garbage Collection](https://github.com/jeejee1106/free-study/blob/main/study/2%ED%9A%8C%EC%B0%A8_GarbageCollection.md)
