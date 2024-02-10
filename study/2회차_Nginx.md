@@ -10,7 +10,7 @@
 
 ### Nginx 란,
 
-![Untitled](2회차_Nginx/Untitled.png)
+![Untitled](image/nginx_logo.png)
 
 [Nginx](https://www.nginx.com/)는 웹 서버 소프트웨어로, 가벼움과 높은 성능을 갖는다. 비슷한 소프트웨어로 Apache HTTP Server(이하 httpd)가 있다. httpd가 프로세스, 쓰레드 구조를 갖는 반면, Nginx는 비동기 이벤트 구조를 가진다. 이러한 구조는 서버에 많은 부하가 생길 경우 더 유리하다.
 

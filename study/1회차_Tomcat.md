@@ -8,7 +8,7 @@
 
 # Apache Tomcat
 
-![Untitled](1회차_Tomcat/Untitled.png)
+![Untitled](image/tomcat_logo.png)
 
 [아파치 톰캣](https://tomcat.apache.org/index.html)(이하 톰캣)은 아파치 소프트웨어 재단에서 개발한 서블릿 컨테이너, 웹 컨테이너 역할을 하는 웹 어플리케이션 서버(WAS)이다. 자바로 개발한 JSP와 자바 서블릿을 실행할 수 있는 자바 환경을 제공한다. 자바 또는 스프링을 이용해 개발한 웹 어플리케이션은 톰캣을 이용해야만 실행시킬 수 있으며, 스프링부트는 내부에 들어있는 내장 톰캣을 사용해 바로 실행할 수 있다.
 
@@ -163,7 +163,7 @@ export CATALINA_BASE={BASE 폴더경로}
     - tar.gz를 직접 다운받아 리눅스 서버에 넣거나,
     - tar.gz 링크를 복사하여 리눅스에서 `wget {링크}` 로 리눅스 현재 경로에 직접 다운로드
 
-![Untitled](1회차_Tomcat/Untitled%201.png)
+![Untitled](image/tomcat_download.png)
 
 ```bash
 # 링크를 복사하여 직접 다운로드
