@@ -13,3 +13,6 @@
 
 #### 2회차
 - 김민지 : [Garbage Collection](https://github.com/jeejee1106/free-study/blob/main/study/2%ED%9A%8C%EC%B0%A8_GarbageCollection.md)
+
+#### 3회차
+- 김민지 : [Garbage Collection](https://github.com/jeejee1106/free-study/blob/main/study/3%ED%9A%8C%EC%B0%A8_IP.md)
