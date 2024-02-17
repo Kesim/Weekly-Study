@@ -142,7 +142,7 @@ public class WebConfig implements WebMvcConfigurer {
 
 시큐리티 필터는 FilterProxyChain 에 등록되는데, 이 체인은 빈으로 등록되므로 DelegatingFilterProxy 에 의해 관리되어 필터 체인에 등록된다.
 
-![Untitled](image\filterChain_structure.png)
+![Untitled](image/filterChain_structure.png)
 
 서블릿 필터와 시큐리티 필터의 순서는 기본적으로 시큐리티 필터 체인이 먼저 수행되고, 그 외의 필터가 수행된다. 이 순서를 바꾸려면, application.yml 파일에 `spring.security.filter.order={숫자}` 로 순서를 지정해야 한다. 
 
