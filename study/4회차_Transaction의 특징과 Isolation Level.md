@@ -233,7 +233,7 @@ Dirty Read, Non-Repeatable Read는 허용하지 않고 Phantom Read는 허용하
 
 즉, 이 격리 수준은 트랜잭션이 읽은 테이터가 동일한 트랜잭션이 커밋될 때 까지 변경되지 않음을 보장한다.
 
-그러나 Phantom Read는 허용하는데, 이는 트랜잭션의 rock과 관련이 있다. ( rock에 관한 부분은 이번 포스팅에서는 다루지 않는다.)
+그러나 Phantom Read는 허용하는데, 이는 트랜잭션의 lock과 관련이 있다.
 
 ### 4. Serializable
 
