@@ -15,4 +15,7 @@
 - 김민지 : [Garbage Collection](https://github.com/jeejee1106/free-study/blob/main/study/2%ED%9A%8C%EC%B0%A8_GarbageCollection.md)
 
 #### 3회차
-- 김민지 : [Garbage Collection](https://github.com/jeejee1106/free-study/blob/main/study/3%ED%9A%8C%EC%B0%A8_IP.md)
+- 김민지 : [IP](https://github.com/jeejee1106/free-study/blob/main/study/3%ED%9A%8C%EC%B0%A8_IP.md)
+
+#### 4회차
+- 김민지 : [Transaction의 특징와 Isolation Level](https://github.com/jeejee1106/free-study/blob/main/study/4%ED%9A%8C%EC%B0%A8_Transaction%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20Isolation%20Level.md)
